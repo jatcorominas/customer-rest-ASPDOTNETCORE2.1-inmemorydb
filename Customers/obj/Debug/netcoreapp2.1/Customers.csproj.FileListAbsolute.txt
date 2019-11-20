@@ -1,0 +1,16 @@
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\appsettings.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.deps.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.runtimeconfig.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.runtimeconfig.dev.json
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.dll
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.csprojAssemblyReference.cache
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.RazorAssemblyInfo.cache
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.RazorAssemblyInfo.cs
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.AssemblyInfoInputs.cache
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.AssemblyInfo.cs
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.RazorTargetAssemblyInfo.cache
+C:\VisualStudio2019Dev\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.pdb
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.dll
+C:\VisualStudio2019Dev\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.pdb
