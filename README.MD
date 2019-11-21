@@ -8,7 +8,7 @@ cell:   +1-647-618-2080
 1. Dependencies 
 
 (a) Visual Studio 2019 Community Edition
-(b) ASP DOTNET CORE 3.0 Template
+(b) ASP DOTNET CORE 2.1 Template
 (c) The Unit Tests are dependent on xUnit, NSubstitute and FluentAssertions
 
 2. Import the project as an existing project to Visual Studio 2019
