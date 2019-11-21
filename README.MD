@@ -1,6 +1,4 @@
-README.MD
-
-This is a Representational State Transfer (REST) Customer CRUD (Create-Retrieve-Update-Delete) application that is a ASP DOTNET CORE 2.1
+This is a Representational State Transfer (REST) Customer CRUD (Create-Retrieve-Update-Delete) application that is a ASP DOTNET CORE 3.0
 microservice that manipulates customer data on on in-memory database.
 
 Author: Jose Alfonso Corominas
@@ -11,11 +9,10 @@ cell:   +1-647-618-2080
 
 (a) Visual Studio 2019 Community Edition
 (b) ASP DOTNET CORE 3.0 Template
+(c) The Unit Tests are dependent on xUnit, NSubstitute and FluentAssertions
 
 2. Import the project as an existing project to Visual Studio 2019
 
 3. To build the project navigate to Build->Build Solution
 
 4. To run the project press the F5 key
-
-
