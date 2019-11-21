@@ -1,4 +1,4 @@
-This is a Representational State Transfer (REST) Customer CRUD (Create-Retrieve-Update-Delete) application that is a ASP DOTNET CORE 3.0
+This is a Representational State Transfer (REST) Customer CRUD (Create-Retrieve-Update-Delete) application that is a ASP DOTNET CORE 2.1
 microservice that manipulates customer data on on in-memory database.
 
 Author: Jose Alfonso Corominas
