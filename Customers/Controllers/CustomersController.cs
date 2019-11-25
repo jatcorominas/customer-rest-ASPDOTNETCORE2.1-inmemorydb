@@ -120,7 +120,7 @@ namespace Customers.Controllers
                 }
             }
 
-            return Ok();
+            return Ok(customerToBeUpdated);
         }
 
         // POST: api/Customers/seed
